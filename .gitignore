@@ -1,0 +1,44 @@
+# Large data/artifacts
+data/
+lake/**/*
+!lake/landing/lookups/**
+*.parquet
+*.npz
+*.npy
+*.pkl
+*.sav
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Envs
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+# Large data/artifacts
+data/
+lake/**/*
+!lake/landing/lookups/**
+*.parquet
+*.npz
+*.npy
+*.pkl
+*.sav
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Envs
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier

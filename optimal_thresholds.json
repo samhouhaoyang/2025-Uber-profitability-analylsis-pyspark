@@ -1,0 +1,10 @@
+{
+  "trip_miles_lower": 0.0,
+  "trip_miles_upper": 503.98,
+  "duration_sec_lower": 1.0,
+  "duration_sec_upper": 46074.0,
+  "generated_from": "training_data_analysis",
+  "data_retention_pct": 100.0,
+  "total_training_trips": 16712400,
+  "sample_size_used": 50000
+}
