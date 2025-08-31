@@ -1,5 +1,5 @@
 # Project README
-
+Make sure you have downloaed the TLC data and store inside teh data folder before running
 ## Run order (notebooks)
 1. Preprocessing.ipynb
    - Start Spark session, load raw HVFHS data, build curated layers/external features (spatial, temporal, weather).
